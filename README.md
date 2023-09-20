@@ -12,3 +12,6 @@ Interests:
 * Experience in C/C++ Programming
 * Experience in Python Programming
 * Experience using microcontrollers in the work place, creating software for different applications.
+
+### Favorite Meme
+https://i.kym-cdn.com/entries/icons/original/000/033/594/Just_Like_The_Simulations_Template.jpg
